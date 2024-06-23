@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\models\\emprestimomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:models\\emprestimomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\migrations\\20240522185514_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:migrations\\20240522185514_criarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|c:\\users\\didjtyrjeu\\desktop\\biblioteca\\biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EEBB7E3E-1452-4EC1-ACD5-FD718E5EE4A8}|biblioteca.csproj|solutionrelative:biblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T22:29:45.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:04:37.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:28:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T19:28:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmprestimoModels.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Models\\EmprestimoModels.cs",
+              "RelativeDocumentMoniker": "Models\\EmprestimoModels.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Models\\EmprestimoModels.cs",
+              "RelativeToolTip": "Models\\EmprestimoModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emprestimo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Emprestimo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:28:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emprestimo\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Emprestimo\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:28:24.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emprestimo\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Cadastrar.cshtml",
+              "RelativeToolTip": "Views\\Emprestimo\\Cadastrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:28:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:28:24.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:28:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "Controllers\\EmprestimoController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:04:35.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Excluir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Excluir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emprestimo\\Excluir.cshtml",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Views\\Emprestimo\\Excluir.cshtml",
+              "RelativeToolTip": "Views\\Emprestimo\\Excluir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:28:24.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240522185514_CriarBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Migrations\\20240522185514_CriarBanco.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240522185514_CriarBanco.cs",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\Migrations\\20240522185514_CriarBanco.cs",
+              "RelativeToolTip": "Migrations\\20240522185514_CriarBanco.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:24.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "biblioteca.csproj",
+              "DocumentMoniker": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\biblioteca.csproj",
+              "RelativeDocumentMoniker": "biblioteca.csproj",
+              "ToolTip": "C:\\Users\\Didjtyrjeu\\Desktop\\biblioteca\\biblioteca.csproj",
+              "RelativeToolTip": "biblioteca.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T19:28:24.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
